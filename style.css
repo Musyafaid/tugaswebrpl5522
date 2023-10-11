@@ -79,5 +79,9 @@ svg:hover{
     .card{
         width: 8rem;
     }
+     #footer-text{
+        font-size: x-small;
+    }
+    
     
 }
